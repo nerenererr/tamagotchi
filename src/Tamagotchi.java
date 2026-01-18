@@ -3,14 +3,12 @@ public class Tamagotchi {
     private int energy;
     private int mood;
 
-    public Tamagotchi(int hunger, int energy, int mood) {
+    public Tamagotchi() {
         this.hunger = 4;
         this.energy = 4;
         this.mood = 4;
     }
 
-    public Tamagotchi() {
-    }
 
     public int getHunger() {
         return hunger;
