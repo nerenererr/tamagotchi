@@ -94,30 +94,29 @@ During debugging:
 ## Screenshots
 
 ### 1. Complete Code
-![Complete Tamagotchi class code](screenshots/complete_code.png)
+<img width="1263" height="928" alt="Captura de pantalla 2026-01-23 090049" src="https://github.com/user-attachments/assets/eaeeda88-c8e1-4153-b8e8-782709890cf2" />
+
 
 *Shows the complete implementation of the Tamagotchi class with all its methods.*
 
 ---
 
 ### 2. Breakpoint 1 - play() Method
-![Breakpoint in play method](screenshots/breakpoint_1.png)
+<img width="1908" height="1012" alt="Captura de pantalla 2026-01-23 085104" src="https://github.com/user-attachments/assets/75193f5f-c5e6-4bb7-bed3-0ef9df7e80f5" />
+
 
 *Screenshot of the program stopped at the first breakpoint, showing how the values changed after playing with the Tamagotchi.*
 
 ---
 
 ### 3. Breakpoint 2 - Constructor
-![Breakpoint in constructor](screenshots/breakpoint_2.png)
+<img width="1903" height="1016" alt="Captura de pantalla 2026-01-23 085130" src="https://github.com/user-attachments/assets/a0a3dfbb-3c04-483f-8352-4277b96c7e6d" />
+
 
 *Screenshot of the program stopped at the constructor, showing the initialization of attributes.*
 
 ---
 
-### 4. Variables Panel
-![Variables state in debug](screenshots/variables_debug.png)
-
-*Detailed view of the variables panel showing the real-time values of `hunger`, `energy`, and `mood`.*
 
 ## Debugging Process Observations
 
